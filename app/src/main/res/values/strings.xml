@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Passport Reader</string>
+
+    <string name="input_passport_number">Passport number</string>
+    <string name="input_expiration_date">Date of expiry</string>
+    <string name="input_date_of_birth">Date of birth</string>
+
+    <string name="info_loading">Loading…</string>
+    <string name="info_scan_passport">Please fill details and place your phone on top of the passport. Following information is required to decode encrypted passport data.</string>
+    <string name="error_input">Please provide details to read passport</string>
+    <string name="error_read">Failed to read passport</string>
+
+    <string name="permission_title">Permission Required</string>
+    <string name="permission_description">We need your permission to access camera in order to scan Id Card / Passport.</string>
+    <string name="button_ok">OK</string>
+
+</resources>
